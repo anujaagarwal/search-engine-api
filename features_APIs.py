@@ -4,12 +4,12 @@ from elasticsearch import Elasticsearch
 import os
 os.chdir('//home//anuja//Downloads//SearchEngine')
 app = Flask(__name__)
-es = Elasticsearch('127.0.0.1', port=9200)
-with open('category.csv', mode='r') as infile:
+es = Elasticsearch('127.0.0.1', port = 9200)
+with open('category.csv', mode = 'r') as infile:
     reader = csv.reader(infile)
     cat_dict = {rows[6]:rows[0] for rows in reader}
 print(cat_dict)
-with open('brand.csv', mode='r') as infile:
+with open('brand.csv', mode = 'r') as infile:
     reader = csv.reader(infile)
     brand_dict = {rows[1]:rows[0] for rows in reader}
 print(brand_dict)
@@ -30,7 +30,7 @@ def filter_range_sort():
     for range_field in range_fields_value.keys():
         filter_list.append({"range": {range_field: {"gte": range_fields_value[range_field]["min_val"], "lte": range_fields_value[range_field]["max_val"]}}})
         print(
-            {"range": {range_field: {"gte": range_fields_value[range_field]["min_val"], "lte": range_fields_value[range_field]["max_val"]}}})
+            {"range" : {range_field: {"gte": range_fields_value[range_field]["min_val"], "lte": range_fields_value[range_field]["max_val"]}}})
     print(filter_list)
     res = es.search(index = 'biomall', body = {
     "sort" : [
