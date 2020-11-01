@@ -1,0 +1,19 @@
+"1","MP Biomedicals","10","1",NULL,NULL,NULL,"product/brand.jpg","mp-biomedicals",NULL,NULL,NULL,"2015-12-26 12:53:25",NULL,"1"
+"2","BioPointe Scientific","10","1",NULL,NULL,NULL,"product/brand.jpg","biopointe-scientific",NULL,NULL,NULL,"2015-12-28 16:05:06",NULL,"1"
+"3","Atgen","5","1","1",NULL,"xyz","product/brand.jpg","atgen","n",,,"2016-01-05 15:02:31","2017-02-07 00:29:22","1"
+"4","ProSpec Alternatives","3","1",NULL,NULL,NULL,"product/brand.jpg","prospec-alternatives",NULL,NULL,NULL,"2016-01-21 07:56:06",NULL,"1"
+"5","National Scientific Supply ","6","1",NULL,NULL,NULL,"product/brand.jpg","national-scientific-supply",NULL,NULL,NULL,"2016-06-23 17:16:04",NULL,"1"
+"6","Tarsons","15","0","6","10","<!DOCTYPE html>
+&lt;html&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;body&gt;
+<p>tarsons</p>
+&lt;/body&gt;
+&lt;/html&gt;","product/tarsons.jpg","tarsons",,,,"2018-09-19 12:23:54",NULL,"1"
+"7","Alfa Chemika","20","0","1","0","Alpha Chemika was founded in 1985, in Mumbai Maharashtra as a trading venture in Laboratory Chemicals, Ion Pairing Reagents, and Rare Earth Chemicals, which has now expanded to accommodate a number of products like Iodine, Perchloric acid, Acetone, Methanol, Acetonitrile, Crystal Violet, Giemsaâ€™s Stain, and Menthol crystals. It is an ISO 9001 quality system certified organization which has made its place among the most trusted manufacturers and suppliers. Equipped with advanced facilities and cutting-edge technology for production, testing, and R&amp;D, Alpha Chemika ensures high product quality, efficient utilization of waste products and a diverse product range with the ever-growing distribution network. Even though it is relatively nascent in the global market, it has managed to make its presence felt in various parts of the world.   They have an all-inclusive collection of lab chemicals available in different grades, available to purchase online at biomall.in.","assets/product/attach96brand1559213826.jpg","alfa-chemika",NULL,NULL,NULL,"2019-05-30 00:00:00","2019-05-30 00:00:00","1"
+"8","Ansell","0","0",NULL,NULL,"Ansell company was initially established in 1888 and it is a leading global provider of protection solutions. Ansell has industrial division which manufactures high performance, multi use protection solutions for industry applications such as medical grade gloves, hoods, aprons, safety essentials, burn and wound care products, general disposable gloves, chemical gloves, industrial sleeves, patient positioners. Ansell also has healthcare division which is producing infection protection products, health care safety devices.","assets/product/attach96brand1559214166.jpg","ansell",NULL,NULL,NULL,"2019-05-30 19:17:45",NULL,"1"
+"9","Ansell12","0","0",NULL,NULL,"Ansell company was initially established in 1888 and it is a leading global provider of protection solutions. Ansell has industrial division which manufactures high performance, multi use protection solutions for industry applications such as medical grade gloves, hoods, aprons, safety essentials, burn and wound care products, general disposable gloves, chemical gloves, industrial sleeves, patient positioners. Ansell also has healthcare division which is producing infection protection products, health care safety devices.","assets/product/attach99brand1559223936.jpg","ansell12",NULL,NULL,NULL,"2019-06-03 17:44:22",NULL,"1"
+"10","Kingfisher","0","0",NULL,NULL,"fge effefw eef fef f ","assets/product/attach96brand1559562055.jpg","kingfisher",NULL,NULL,NULL,"2019-06-03 17:44:33",NULL,"1"
+"11","Test brand shub","0","0",NULL,NULL,"Test brand shub",NULL,"test-brand-shub",NULL,NULL,NULL,"2020-02-02 21:49:13",NULL,"1"
+"12","Biomall","0","0",NULL,NULL,"sdfsnvsnv  skdc sdn s dckjdv","assets/product/attach97brand1559198442.jpg","biomall",NULL,NULL,NULL,"2020-02-02 21:52:10",NULL,"1"
